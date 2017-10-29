@@ -23,5 +23,7 @@
 .container {
     display: flex;
     border: 10px solid black;
-    flex-direction: row;
+    flex-direction: column;
+    flex-wrap: wrap; 
+    height: 800px;
 }
