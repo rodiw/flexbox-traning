@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+.box {
+    font-family: 'Roboto', sans-serif;
+    height: 70px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.box-1 {background-color: #F44336;}
+.box-2 {background-color: #FF9800;}
+.box-3 {background-color: #FFC107;}
+.box-4 {background-color: #FFEB3B;}
+.box-5 {background-color: #8BC34A;}
+.box-6 {background-color: #4CAF50;}
+.box-7 {background-color: #009688;}
+.box-8 {background-color: #2196F3;}
+.box-9 {background-color: #9C27B0;}
