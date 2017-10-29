@@ -7,7 +7,7 @@
     padding: 10px;
     box-sizing: border-box;
     font-weight: 300;
-    width: 300px;
+    width: 100px;
 }
 
 .box-1 {background-color: #F44336;}
@@ -24,6 +24,7 @@
     display: flex;
     border: 10px solid black;
     flex-direction: column;
-    flex-wrap: wrap; 
+    justify-content: flex-end;
+    flex-wrap: wrap;
     height: 800px;
 }
