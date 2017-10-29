@@ -5,7 +5,7 @@
     font-size: 50px;
     color: white;
     text-align: center;
-    padding: 15px;
+    padding: 30px;
 }
 
 .box-1 {background-color: #F44336;}
@@ -17,3 +17,8 @@
 .box-7 {background-color: #009688;}
 .box-8 {background-color: #2196F3;}
 .box-9 {background-color: #9C27B0;}
+
+.container {
+    display: flex;
+    border: 10px solid black;
+}
