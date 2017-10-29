@@ -23,8 +23,6 @@
 .container {
     display: flex;
     border: 10px solid black;
-    flex-direction: column;
-    justify-content: flex-end;
-    flex-wrap: wrap;
     height: 800px;
+    
 }
